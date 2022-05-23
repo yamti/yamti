@@ -1,4 +1,4 @@
-Yamtis GitHub Page
+Yamti's GitHub Page
 
 <!---
 yamti/yamti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
